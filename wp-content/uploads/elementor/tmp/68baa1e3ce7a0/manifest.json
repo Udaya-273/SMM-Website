@@ -1,0 +1,1053 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Ailope",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single-Project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-Metform",
+            "screenshot": "screenshots\/contact-metform.jpg",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/ailope\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.10",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.11.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/bg4-800x387.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214343,
+            "dimensions": [
+                1920,
+                928
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "artificial-intelligence-15-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/artificial-intelligence-15-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6770,
+            "dimensions": [
+                268,
+                268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "artificial-intelligence-26-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/artificial-intelligence-26-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4932,
+            "dimensions": [
+                268,
+                268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "artificial-intelligence-30-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/artificial-intelligence-30-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 10043,
+            "dimensions": [
+                267,
+                268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "AI-make-Art-2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/AI-make-Art-2-800x594.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 85203,
+            "dimensions": [
+                1000,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "ai-generated-face-of-young-businessman-in-formalwe-2022-09-29-17-44-01-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/ai-generated-face-of-young-businessman-in-formalwe-2022-09-29-17-44-01-utc-copy-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 225021,
+            "dimensions": [
+                1000,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "businessman-phone-and-smile-with-luggage-for-trav-2023-01-27-16-23-38-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/businessman-phone-and-smile-with-luggage-for-trav-2023-01-27-16-23-38-utc-copy-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 150945,
+            "dimensions": [
+                1000,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "Chat-AI-Mobile-App3-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/Chat-AI-Mobile-App3-copy-800x403.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 224965,
+            "dimensions": [
+                1692,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "AI-make-Art-3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/AI-make-Art-3-800x497.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 212460,
+            "dimensions": [
+                1000,
+                621
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "stylish-businessman-in-suit-2022-11-04-04-08-48-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/stylish-businessman-in-suit-2022-11-04-04-08-48-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 139074,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "stylish-businessman-in-suit-2022-11-04-04-08-48-utc-copy3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/stylish-businessman-in-suit-2022-11-04-04-08-48-utc-copy3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 145497,
+            "dimensions": [
+                748,
+                777
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "group-of-penguins-in-south-georgia-2023-01-06-10-56-11-utc-copy3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/group-of-penguins-in-south-georgia-2023-01-06-10-56-11-utc-copy3-800x448.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 207130,
+            "dimensions": [
+                1200,
+                672
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "tentacles-colorful-abstract-background-3d-illustra-2022-08-23-00-03-28-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/tentacles-colorful-abstract-background-3d-illustra-2022-08-23-00-03-28-utc-copy-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 229665,
+            "dimensions": [
+                1200,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "ai-robot-painting-in-the-art-studio-2023-05-12-02-25-07-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/ai-robot-painting-in-the-art-studio-2023-05-12-02-25-07-utc-copy-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 149978,
+            "dimensions": [
+                1200,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "p1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/p1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 133073,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "p3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/p3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 78950,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "p7.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/p7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 133137,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/line-800x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 62699,
+            "dimensions": [
+                1237,
+                928
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "C4D_035_13_i5-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/C4D_035_13_i5-copy-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 200724,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "bg-page2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/bg-page2-800x335.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 228169,
+            "dimensions": [
+                2214,
+                928
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "artificial-intelligence-18-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/artificial-intelligence-18-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 7433,
+            "dimensions": [
+                267,
+                268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp5-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp5-1-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 112700,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp7a.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp7a-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127753,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp8.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp8-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 216252,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp2-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 125744,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp4-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp4-1-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 230718,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "pp1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/pp1-800x978.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 114015,
+            "dimensions": [
+                900,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "apps-store2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/apps-store2.png",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 13121,
+            "dimensions": [
+                508,
+                161
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "google-play-icon.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/google-play-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 12030,
+            "dimensions": [
+                508,
+                161
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "041.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/041-800x890.png",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 104209,
+            "dimensions": [
+                899,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "s4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/s4.png",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 147217,
+            "dimensions": [
+                393,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "s3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/s3.png",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 199375,
+            "dimensions": [
+                393,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "s2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/s2.png",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 167791,
+            "dimensions": [
+                393,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "s1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/s1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single-Project"
+                }
+            ],
+            "filesize": 164586,
+            "dimensions": [
+                393,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "LOGO1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/LOGO1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 27227,
+            "dimensions": [
+                794,
+                232
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        },
+        {
+            "filename": "LOGO2-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/ailope\/wp-content\/uploads\/sites\/173\/2023\/06\/LOGO2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 27013,
+            "dimensions": [
+                794,
+                232
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/FJA4XHPSKT"
+        }
+    ]
+}
